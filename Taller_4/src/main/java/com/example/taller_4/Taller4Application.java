@@ -31,8 +31,16 @@ public class Taller4Application {
 	}
 
 	public static int itKaprekar(int num){
-
-		return  num;
+		int contador=0;
+		if(kaprekarOp(num)==6174){
+			return 1;
+		}else {
+			while (num!=6174){
+				contador++;
+                num=kaprekarOp(num);
+			}
+		}
+		return  contador;
 	}
 
 	public static List<Integer> numToList(int num) {
