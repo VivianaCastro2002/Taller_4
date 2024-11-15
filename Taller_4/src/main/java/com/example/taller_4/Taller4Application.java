@@ -30,6 +30,11 @@ public class Taller4Application {
 	return numero1-numero2;
 	}
 
+	public static int itKaprekar(int num){
+
+		return  num;
+	}
+
 	public static List<Integer> numToList(int num) {
 		List<Integer> numeros = new ArrayList<>();
 		numeros.addAll(String.valueOf(Math.abs(num))

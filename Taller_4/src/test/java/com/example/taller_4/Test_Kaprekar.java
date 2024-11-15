@@ -8,7 +8,7 @@ import org.junit.jupiter.api.Test;
 // 2) la función itKaprekar usará kaprekarOp y retonará cuantas iteraciones tomó llegar a la constante
 
 
-
+import static com.example.taller_4.Taller4Application.itKaprekar;
 import static com.example.taller_4.Taller4Application.kaprekarOp;
 
 public class Test_Kaprekar{
