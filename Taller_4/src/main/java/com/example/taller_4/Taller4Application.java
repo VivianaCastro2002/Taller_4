@@ -15,8 +15,9 @@ public class Taller4Application {
 		SpringApplication.run(Taller4Application.class, args);
 
 	}
+	// Método que segura que el número tenga 4 dígitos
 	public static String formatToFourDigits(int num) {
-		return String.format("%04d", num); // Asegura que el número tenga 4 dígitos
+		return String.format("%04d", num);
 	}
 	public static int kaprekarOp(int num) {
 		int numero1;
