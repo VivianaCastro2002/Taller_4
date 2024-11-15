@@ -4,6 +4,7 @@ import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 import java.util.ArrayList;
+import java.util.Collections;
 import java.util.List;
 import java.util.stream.Collectors;
 
@@ -23,7 +24,10 @@ public class Taller4Application {
 		List <Integer> numerosMenorMenor= numerosOriginales.stream()
 				.sorted()
 				.collect(Collectors.toList());
-
+		List <Integer> numerosMayorMayor= numerosOriginales.stream()
+				.sorted(Collections.reverseOrder())
+				.collect(Collectors.toList());
+		
 	return num
 	}
 

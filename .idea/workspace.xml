@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a76f9e43-4cbd-4a6b-bab8-22c54492f0a5" name="Changes" comment="" />
+    <list default="true" id="a76f9e43-4cbd-4a6b-bab8-22c54492f0a5" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/Taller_4/src/main/java/com/example/taller_4/Taller4Application.java" beforeDir="false" afterPath="$PROJECT_DIR$/Taller_4/src/main/java/com/example/taller_4/Taller4Application.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -66,7 +68,7 @@
       <option name="presentableId" value="Default" />
       <updated>1731679758951</updated>
       <workItem from="1731679775134" duration="75000" />
-      <workItem from="1731680360369" duration="1273000" />
+      <workItem from="1731680360369" duration="1614000" />
     </task>
     <servers />
   </component>
