@@ -15,7 +15,9 @@ public class Taller4Application {
 		SpringApplication.run(Taller4Application.class, args);
 
 	}
-
+	public static String formatToFourDigits(int num) {
+		return String.format("%04d", num); // Asegura que el número tenga 4 dígitos
+	}
 	public static int kaprekarOp(int num) {
 		int numero1;
 		int numero2;
@@ -27,6 +29,7 @@ public class Taller4Application {
 
 	return numero1-numero2;
 	}
+
 	public static List<Integer> numToList(int num) {
 		List<Integer> numeros = new ArrayList<>();
 		numeros.addAll(String.valueOf(Math.abs(num))
