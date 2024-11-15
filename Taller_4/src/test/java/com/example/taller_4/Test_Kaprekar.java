@@ -9,7 +9,6 @@ import org.junit.jupiter.api.Test;
 
 
 
-
 import static com.example.taller_4.Taller4Application.kaprekarOp;
 
 public class Test_Kaprekar{

@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a76f9e43-4cbd-4a6b-bab8-22c54492f0a5" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Taller_4/src/main/java/com/example/taller_4/Taller4Application.java" beforeDir="false" afterPath="$PROJECT_DIR$/Taller_4/src/main/java/com/example/taller_4/Taller4Application.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Taller_4/src/test/java/com/example/taller_4/Test_Kaprekar.java" beforeDir="false" afterPath="$PROJECT_DIR$/Taller_4/src/test/java/com/example/taller_4/Test_Kaprekar.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -14,28 +14,14 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="FileTemplateManagerImpl">
-    <option name="RECENT_TEMPLATES">
-      <list>
-        <option value="JUnit5 Test Class" />
-      </list>
-    </option>
-  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="HighlightingSettingsPerFile">
-    <setting file="file://$PROJECT_DIR$/Taller_4/src/main/java/com/example/taller_4/Taller4Application.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Taller_4/src/main/java/com/example/taller_4/Taller4Application.java" root0="SKIP_INSPECTION" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
-  </component>
-  <component name="MavenImportPreferences">
-    <option name="generalSettings">
-      <MavenGeneralSettings>
-        <option name="useMavenConfig" value="true" />
-      </MavenGeneralSettings>
-    </option>
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 4
@@ -45,42 +31,32 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary": "JUnit5",
-    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5": "",
-    "git-widget-placeholder": "ftr__test1",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;ftr__test2&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
-  <component name="RecentsManager">
-    <key name="CreateTestDialog.Recents.Supers">
-      <recent name="" />
-    </key>
-    <key name="CreateTestDialog.RecentsKey">
-      <recent name="com.example.taller_4" />
-    </key>
-  </component>
-  <component name="RunManager" selected="JUnit.Test_Kaprekar.testKaprekarOperation1">
-    <configuration name="Test_Kaprekar.testKaprekarOperation1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+}</component>
+  <component name="RunManager" selected="JUnit.Test_Kaprekar.testKaprekarOperation2">
+    <configuration name="Test_Kaprekar.testKaprekarOperation2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Taller_4" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.example.taller_4.*" />
+          <option name="PATTERN" value="com.example.testeo.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.example.taller_4" />
-      <option name="MAIN_CLASS_NAME" value="com.example.taller_4.Test_Kaprekar" />
-      <option name="METHOD_NAME" value="testKaprekarOperation1" />
+      <option name="PACKAGE_NAME" value="com.example.testeo" />
+      <option name="MAIN_CLASS_NAME" value="com.example.testeo.Test_Kaprekar" />
+      <option name="METHOD_NAME" value="testKaprekarOperation2" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -95,7 +71,7 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.Test_Kaprekar.testKaprekarOperation1" />
+        <item itemvalue="JUnit.Test_Kaprekar.testKaprekarOperation2" />
       </list>
     </recent_temporary>
   </component>
@@ -108,7 +84,10 @@
       <option name="presentableId" value="Default" />
       <updated>1731679758951</updated>
       <workItem from="1731679775134" duration="75000" />
-      <workItem from="1731680360369" duration="3796000" />
+      <workItem from="1731680360369" duration="1273000" />
+      <workItem from="1731684433217" duration="418000" />
+      <workItem from="1731684874805" duration="8000" />
+      <workItem from="1731684917191" duration="389000" />
     </task>
     <servers />
   </component>
