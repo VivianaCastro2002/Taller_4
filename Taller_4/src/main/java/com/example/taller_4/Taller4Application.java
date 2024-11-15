@@ -30,6 +30,19 @@ public class Taller4Application {
 	return numero1-numero2;
 	}
 
+	public static int itKaprekar(int num){
+		int contador=0;
+		if(kaprekarOp(num)==6174){
+			return 1;
+		}else {
+			while (num!=6174){
+				contador++;
+                num=kaprekarOp(num);
+			}
+		}
+		return  contador;
+	}
+
 	public static List<Integer> numToList(int num) {
 		List<Integer> numeros = new ArrayList<>();
 		numeros.addAll(String.valueOf(Math.abs(num))
