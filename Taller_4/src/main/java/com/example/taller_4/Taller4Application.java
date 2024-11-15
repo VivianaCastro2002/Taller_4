@@ -29,6 +29,11 @@ public class Taller4Application {
 				.collect(Collectors.toList());
 		
 	return num
+	public static int listToInt(List<Integer> digitList) {
+		String numberString = digitList.stream()
+				.map(String::valueOf)
+				.collect(Collectors.joining());
+		return Integer.parseInt(numberString);
 	}
 
 }
