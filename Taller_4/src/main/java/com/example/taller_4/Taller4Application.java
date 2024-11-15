@@ -21,10 +21,10 @@ public class Taller4Application {
 				.chars()
 				.mapToObj(c -> c - '0')
 				.collect(Collectors.toList()));
-		List <Integer> numerosMenorMenor= numerosOriginales.stream()
+		List <Integer> numerosMenorMayor= numerosOriginales.stream()
 				.sorted()
 				.collect(Collectors.toList());
-		List <Integer> numerosMayorMayor= numerosOriginales.stream()
+		List <Integer> numerosMayorMenor= numerosOriginales.stream()
 				.sorted(Collections.reverseOrder())
 				.collect(Collectors.toList());
 		
